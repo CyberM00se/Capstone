@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "4b23aa533a5e0114",
+    "type": "split",
+    "children": [
+      {
+        "id": "9008a3266c70ada8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MindMap.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc262b510e219bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf73ce5ea2a31dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5aa54fa47c93858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "851777dbcb0aca37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d97f7fb754c2069",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74e8fdacfe373c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa66bcd1a97f1b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519ad79033e7f5e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MindMap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e44d5aae7ab551eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MindMap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86332561d97c0931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78106b190abac10d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MindMap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9008a3266c70ada8",
+  "lastOpenFiles": []
+}
